@@ -4,7 +4,9 @@ To be transparent I was heavily inspired by Magnus Hansson and Francois Lamarche
 
 
 Official partners producing this cutter are
+
 BTT/Biqu
+
 ![BIQU BTT](https://github.com/user-attachments/assets/dc05a4cf-1a09-47c8-9a1e-efabfee906e8)
 
 
