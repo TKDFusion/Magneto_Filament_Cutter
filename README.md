@@ -1,6 +1,6 @@
 # Magneto_Filament_Cutter
 This Is a Filament cutter I have designed for VzBot Printhead (https://github.com/VzBoT3D/Vz-Printhead-CNC) series and is a direct replacement for the VzBot Adapter Plate adding 2mm to hotend length.
-To be transparent I was heavily inspired by Magnus Hansson and Francois Lamarche design from the HevORT group.
+To be transparent I was heavily inspired by Magnus Hansson and Francois Lamarche design from the HevORT group. This product would not be possible with out the outstanding help and assistance from BTT/Biqu!
 
 
 ## Official partners producing this product are
