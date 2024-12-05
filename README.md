@@ -5,9 +5,12 @@ To be transparent I was heavily inspired by Magnus Hansson and Francois Lamarche
 
 ## Official partners producing this product are
 
--BTT/Biqu
+BTT/Biqu 
 
-![BIQU BTT](https://github.com/user-attachments/assets/dc05a4cf-1a09-47c8-9a1e-efabfee906e8)
+Mellow3D
+
+![BIQU BTT](https://github.com/user-attachments/assets/dc05a4cf-1a09-47c8-9a1e-efabfee906e8)                      ![Mellow](https://github.com/user-attachments/assets/c44cd3c6-e48b-4dc8-b15f-6eb57113b9ab)
+
 
 
 ## If you appreciate what I do please consider to support me by
@@ -19,7 +22,4 @@ https://buymeacoffee.com/Trev1AK
 ## This project is licensed as
 ![License](https://github.com/user-attachments/assets/7324c36c-8924-4867-a992-370dcd56aad1)
 https://creativecommons.org/licenses/by-nc/4.0
-
-
-
 
