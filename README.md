@@ -19,7 +19,7 @@ Mellow3D
 
 ## If you appreciate what I do please consider supporting me by
 
-buymeacoffee.com/Trev1AK
+[buymeacoffee.com/Trev1AK](https://buymeacoffee.com/trev1ak)
 
 ![bmc_qr](https://github.com/user-attachments/assets/0ae83ab8-97ec-421f-983e-22b4ae1b32f8)
 
