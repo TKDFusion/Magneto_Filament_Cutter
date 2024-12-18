@@ -1,7 +1,7 @@
 # Bill Of Materials
 
 ## Blades
-Excel #17A Narrow Chisel Blade
+Excel #17A Narrow Chisel Blade is currently the best blade tested but requires narrowing of the blade. Working on a direct-fit blade as well.
 
 Optional: Generic #17 Hobby knife blade, or Generic #4 Hobby knife blade
 #
