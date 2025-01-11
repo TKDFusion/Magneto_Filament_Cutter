@@ -1,4 +1,4 @@
-# Magneto_Filament_Cutter
+# Magneto Filament Cutter
 
 ![VzBot_Alu_PrintHead_Assembly_2024-Dec-06_06-16-25AM-000_CustomizedView13469795193](https://github.com/user-attachments/assets/a0334c4f-7244-4b76-b169-0b5b10289c5c)
 #
