@@ -11,6 +11,7 @@ D3xM2.5x3mm Shoulder Screw | 1 | Loctite Into Place | [AliExpress](https://www.a
 3x6mm .5mm  | 1 | Shim/Washer | [AliExpress](https://www.aliexpress.us/item/3256806418919226.html) / [Amazon](https://a.co/d/gT2xkiK) |
 M3x8 Ultra-Low-Profile Socket Head Screw | 3 | Loctite screw that secures Lever to Blade holder. ----     When running Goliath 2510/2010 fan shroud will need 2 M3x10 as well | [AliExpress](https://www.aliexpress.us/item/2251832795659419.html) / [Amazon](https://a.co/d/hkrRllA) |
 M3x0.5 x 3 Stainless Grub Screw | 3 | | [AliExpress](https://www.aliexpress.us/item/3256802823276533.html) / [Amazon](https://a.co/d/9oGgG0g) |
+Viratite/Loctite | 1 | Vibra-Tite VC-3 Preffered / Secondary Loctite 242 | [Amazon Vibratite](https://a.co/d/2qGUJ2A) / [Amazon Loctite](https://a.co/d/7Vn6hMn)
 
 
 
