@@ -28,7 +28,7 @@ It is recommended to apply Loctite (linked in [BOM](https://github.com/Treintjes
 
 ![Blue Loctite Application](https://github.com/user-attachments/assets/3ea6c94c-05a6-4c4d-9120-1f96684e8a4a)
 
-PTFE 4x1.75mm Capricorn or equivalent for heat break 
+PTFE 4x1.75-2mm Capricorn or equivalent for heat break 
 
 
 Hotend | Lengths 
