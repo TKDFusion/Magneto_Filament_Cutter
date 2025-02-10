@@ -18,15 +18,6 @@ Dragon Hotend | Verified |
 VzHextrudORT Plus | Verified | [AliExpress](https://www.aliexpress.us/item/3256805934938658.html)
 
 ## Assembly notes.
-This is a direct replacement for the VzPrinthead Hotend Adapter plate. The original plate utilizes M3x6 screws, this will be changed out for M3x8 screws. 
-
-![Bolt in to Printhead](https://github.com/user-attachments/assets/272e31d4-2c79-4da9-ba0a-f3c472c336a6)
-
-
-It is recommended to apply Loctite (linked in [BOM](https://github.com/Treintjes/Magneto_Filament_Cutter/tree/main/BOM)) to these two screws. As you are tightening these two screws bring them to the point of minimizing free play but NOT to the point of adding resistance to motion.
-
-
-![Blue Loctite Application](https://github.com/user-attachments/assets/3ea6c94c-05a6-4c4d-9120-1f96684e8a4a)
 
 PTFE 4x1.75-2mm Capricorn or equivalent for heat break 
 
@@ -41,7 +32,19 @@ Goliath Water | 12 mm
 
 ![Rapido PTFE Placement 17mm](https://github.com/user-attachments/assets/31aecd04-a1c5-47fa-b25f-443ca30cb093)
 
- 
+
+This is a direct replacement for the VzPrinthead Hotend Adapter plate. The original plate utilizes M3x6 screws, this will be changed out for M3x8 screws. 
+
+![Bolt in to Printhead](https://github.com/user-attachments/assets/272e31d4-2c79-4da9-ba0a-f3c472c336a6)
+
+
+It is recommended to apply Loctite (linked in [BOM](https://github.com/Treintjes/Magneto_Filament_Cutter/tree/main/BOM)) to these two screws. As you are tightening these two screws bring them to the point of minimizing free play but NOT to the point of adding resistance to motion.
+
+
+![Blue Loctite Application](https://github.com/user-attachments/assets/3ea6c94c-05a6-4c4d-9120-1f96684e8a4a)
+
+
+
 ## Official partners producing this product are
 
 BTT/Biqu 
