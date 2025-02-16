@@ -60,7 +60,11 @@ Mellow3D
 
 [buymeacoffee.com/Trev1AK](https://buymeacoffee.com/trev1ak)
 
+
 ![bmc_qr](https://github.com/user-attachments/assets/0ae83ab8-97ec-421f-983e-22b4ae1b32f8)
+
+
+[Join me on Discord](https://discordapp.com/users/849867873441546250)
 
 ## This project is licensed as
 ![License](https://github.com/user-attachments/assets/7324c36c-8924-4867-a992-370dcd56aad1)
