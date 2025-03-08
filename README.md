@@ -26,7 +26,7 @@ Hotend | Lengths
 ---------|--------
 Rapido SERIES | 17 mm 
 Dragon UHF | 3 mm
-Goliath AIR | 17.75 mm
+Goliath AIR | 11.5 mm
 Goliath Water | 12 mm
 
 
