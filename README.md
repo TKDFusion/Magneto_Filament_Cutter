@@ -33,7 +33,7 @@ Goliath Water | 12 mm
 ![Rapido PTFE Placement 17mm](https://github.com/user-attachments/assets/31aecd04-a1c5-47fa-b25f-443ca30cb093)
 
 
-This is a direct replacement for the VzPrinthead Hotend Adapter plate. The original plate utilizes M3x6 screws, this will be changed out for M3x8 screws. 
+This is a direct replacement for the VzPrinthead Hotend Adapter plate. The original plate utilizes M3x6 screws, this will be changed out for M3x8 screws. When running hotend cooling fan that utilizes the same screws.(Golaith air ducts) willneed to use M3x10s instead of M3x8
 
 ![Bolt in to Printhead](https://github.com/user-attachments/assets/272e31d4-2c79-4da9-ba0a-f3c472c336a6)
 
