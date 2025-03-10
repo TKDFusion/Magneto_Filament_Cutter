@@ -75,6 +75,6 @@ Mellow3D
 ![License](https://github.com/user-attachments/assets/7324c36c-8924-4867-a992-370dcd56aad1)
 https://creativecommons.org/licenses/by-nc/4.0
 
-![Vz-HextrudORT PLUS ](https://github.com/user-attachments/assets/5ccb4d95-0537-46d0-bea5-399a799c657e)
+
 
 
