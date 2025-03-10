@@ -11,7 +11,7 @@ To be transparent I was heavily inspired by Magnus Hansson and Francois Lamarche
  ------------ | ------ | -----
 Mellow CNC Aluminium VzBoT 330/235 Printhead | Verified | [AliExpress](https://www.aliexpress.us/item/3256805041195069.html)
 Mellow CNC Aluminium RatRig and Hevort Printhead | Verified | [AliExpress](https://www.aliexpress.us/item/3256805552338488.html)
-Mellow All Metal CNC ZeroG Printhead | In Progress | [AliExpress](https://www.aliexpress.us/item/3256805878890324.html)
+Mellow All Metal CNC ZeroG Printhead | Verified | [AliExpress](https://www.aliexpress.us/item/3256805878890324.html)
 Goliath Air / Water V2 | Verified | [AliExpress](https://www.aliexpress.us/item/3256805112047958.html)
 Phaetus RAPIDO SERIES | Verified | 
 Dragon Hotend | Verified | 
