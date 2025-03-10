@@ -32,6 +32,11 @@ Goliath Water | 12 mm
 
 ![Rapido PTFE Placement 17mm](https://github.com/user-attachments/assets/31aecd04-a1c5-47fa-b25f-443ca30cb093)
 
+Insert a filament guide before installing the extruder. This guide is necessary for proper cutting action of the filament. This is meant to be a very tight fit into the hextrudort. 
+
+
+![Vz-HextrudORT PLUS ](https://github.com/user-attachments/assets/5ccb4d95-0537-46d0-bea5-399a799c657e)
+
 
 This is a direct replacement for the VzPrinthead Hotend Adapter plate. The original plate utilizes M3x6 screws, this will be changed out for M3x8 screws. When running hotend cooling fan that utilizes the same screws.(Golaith air ducts) willneed to use M3x10s instead of M3x8
 
@@ -70,5 +75,6 @@ Mellow3D
 ![License](https://github.com/user-attachments/assets/7324c36c-8924-4867-a992-370dcd56aad1)
 https://creativecommons.org/licenses/by-nc/4.0
 
+![Vz-HextrudORT PLUS ](https://github.com/user-attachments/assets/5ccb4d95-0537-46d0-bea5-399a799c657e)
 
 
