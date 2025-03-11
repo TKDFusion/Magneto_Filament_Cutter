@@ -15,7 +15,8 @@ Mellow All Metal CNC ZeroG Printhead | Verified | [AliExpress](https://www.aliex
 Goliath Air / Water V2 | Verified | [AliExpress](https://www.aliexpress.us/item/3256805112047958.html)
 Phaetus RAPIDO SERIES | Verified | 
 Dragon Hotend | Verified | 
-VzHextrudORT Plus | Verified | [AliExpress](https://www.aliexpress.us/item/3256805934938658.html)
+VzHextrudORT LOW Plus | Verified | [AliExpress](https://www.aliexpress.us/item/3256805934938658.html)
+VzHextrudORT LOW | Not Recommended Due to PTFE Not being retained by ECAS/Bowden coupler feeding into HextrudORT as well as no good options for filament guide at the cutter. | [AliExpress](https://www.aliexpress.us/item/3256804388574096.html)
 
 ## Assembly notes.
 
