@@ -7,8 +7,7 @@
 ## Filament Guide For Hextrudort Low
 
 
-This is holding an 11mm section of PTFE via press fit into the printed part. PTFE needs to be flush with the bottom of the top plate to function properly, and it is recommended to chamfer PTFE for smooth fillament insertion. 
-
+This is holding the printed part guide on the top of the CNC printhead. The file includes options for F3D Racing CNC printheads and Mellow3D CNC printheads. I recommend printing in .15 or smaller layer heights because of the small features of these parts.
 ![Hextrudort Low PTFE Holder](https://github.com/user-attachments/assets/2121612b-b161-4f6d-b491-a7406f53e011)
 
 
